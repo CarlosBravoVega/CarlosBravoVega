@@ -5,7 +5,7 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: Chemical engineer at/from [Universidad de los Andes](https://uniandes.edu.co/){:target="_blank"}
+- Bachelor: Chemical engineer at/from <a href="https://uniandes.edu.co/" target="_blank">Universidad de los Andes</a>
 - Master: Biomedical engineer at/from [Universidad de los Andes](https://uniandes.edu.co/){:target="_blank"}
 -  Doctorate: Engineering at/from [Universidad de los Andes](https://uniandes.edu.co/){:target="_blank"}
 - Post Doctorate: Engineering at/from [Universidad de los Andes](https://uniandes.edu.co/){:target="_blank"}
